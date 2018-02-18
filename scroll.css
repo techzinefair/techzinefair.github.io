@@ -1,0 +1,14 @@
+.toTop{
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: none;
+  z-index: 99;
+  width: 40px;
+}
+
+@media (max-width: 600px) {
+	.toTop{
+		width: 30px;
+  }
+}
