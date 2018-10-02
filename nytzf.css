@@ -117,7 +117,7 @@ body{
 	color: #fff;
 }
 
-.vendors: hover {
+.vendors:hover {
 		border-bottom: 4px solid #FF2626;
 		color: #FF2626;
 }
