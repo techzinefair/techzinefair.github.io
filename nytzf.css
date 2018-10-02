@@ -403,15 +403,15 @@ header{
 }
 	
 .img1{
-	left: 0%
-}
+	width: 50px;
+	left: 1%;}
 
 .img2{
-	left:100%
+	width: 100px;
 }
 
 .img3{
-		top: 100%;
+		top: 90%;
 }
 
 nav{
