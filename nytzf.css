@@ -299,7 +299,7 @@ p{
 	margin:0;
 }
 
-/* 
+ 
 @media only screen and (max-width : 1024px) {
 body{
 	font-size: 30px;
@@ -311,19 +311,13 @@ body{
 
 
  .img1{
-	width: 200px;
-	left: 5%;
-	top: 45%;
 }
 
 .img2{
-	top: 35%;
-	width: 75px;
-}
+	}
 
 .img3{
-	top: 68%;
-	width: 100px;
+
 }
 
 .overlay{
@@ -352,7 +346,7 @@ body{
 }
 
 }
-
+/*
 @media only screen and (max-width : 768px) {
 
 body{
