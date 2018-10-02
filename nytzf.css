@@ -323,6 +323,10 @@ header{
 .container-1{
 }
 	
+.container-2{
+	padding: 7%;
+}
+	
 .container-3{
 	padding: 10%;
 }
@@ -344,10 +348,27 @@ header{
 	left: 5%;
 }
 	
-nav {
+/* nav {
 	border: 4px solid #000;
 		width: 40%
-	}
+	} */
+	
+	nav{
+	border: none;
+	padding: 0;
+	margin-left: 10%;
+	line-height: .8em;
+	height: 80%;
+	text-align: right;
+	width: 50%
+}
+
+ul{
+	display:block;
+	text-align: left;
+	padding: 5% 5% 5% 10%;
+	font-weight: bold;
+}
 
 
 .overlay{
