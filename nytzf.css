@@ -1,0 +1,442 @@
+/* Stylez */
+@font-face {
+    font-family: FranklinGothic;
+    src: url("franklingothic-book.otf") format("opentype");
+}
+
+@font-face {
+    font-family: FranklinGothic;
+    font-weight: bold;
+    src: url("franklingothic-demi.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Lunchtype25;
+    src: url("lunchtype25-regular_condensed-webfont.ttf") format("truetype");
+    src: url("lunchtype25-regular_condensed-webfont.woff") format("woff");
+    src: url("lunchtype25-regular_condensed-webfont.woff2") format("woff2");
+    src: url("lunchtype25-regular_condensed-webfont.eot") format("embedded-opentype");
+
+}
+
+body{
+	position:relative;
+	min-width: 100%;
+	margin: 0 auto;
+	font-family: FranklinGothic;
+	font-size: 30px;
+	color: #000;
+	overflow:auto;
+}
+
+/*Stickers */
+
+.sticky{
+	position: absolute;
+	z-index: 3;
+}
+
+.img1{
+	width: 250px;
+	left: 6%;
+	top: 63%;
+}
+
+.img2{
+	width: 150px;
+	left: 3%;
+	top:50%;
+}
+
+.img3{
+	width: 150px;
+	left: 80%;
+	top: 80%;
+}
+
+.img1:hover,
+.img2:hover,
+.img3:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 1s; 
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite; 
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+/*Text Styles*/
+.center{
+		text-align: center;
+}
+
+.small-text{
+	font-size: 0.65em;
+}
+
+
+.med-text{
+	font-size: 0.7em;
+		line-height: 1.3em;
+}
+
+.large-text{
+	font-size: 0.75em;
+	}
+
+.display{
+	    font-family: Lunchtype25;
+	    font-size: 1.25em;
+	    	line-height: 1.25em;
+}
+
+.display-small{
+	    font-family: Lunchtype25;
+	    font-size: 1em;
+	    	line-height: 1.25em;
+}
+
+.title{
+	text-transform: uppercase;
+}
+
+/*Container Styles*/
+.container
+{max-width: 94%;
+
+}
+
+.container-1, .container-2, .container-3, .container-4, .container-5{
+	padding: 3%;
+	position: relative;
+}
+
+.container-1{
+	background-color: #FF2626;
+}
+
+.full{
+	background-color: #FF2626;
+	width: 100% !important!;
+}
+
+.flex{
+		display: flex;
+		width: 96%;
+		margin-left: 2%;
+		margin-right: 2%;
+}
+
+.flex-2{
+		display: flex;
+		width: 96%;
+
+}
+
+.column-1, .column-2
+{
+	width: 40%;
+}
+
+.container-2{
+/*	background-color: #D21108;
+*/	background-image: url("inform2.jpg");
+	    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-3{
+	background-color: #000;
+	color: #fff;
+	padding: 5% 5% 5% 35%;
+	text-align: left;
+}
+
+.container-4{
+	background-color: #fff;
+	color: #000;
+	line-height: 1.75em;
+	border-bottom: 4px solid #000;
+	padding: 10%;
+}
+
+
+.container-5{
+	background-color: #fff;
+	color: #000;
+	padding: 5% 3%;
+}
+
+
+
+/* List Details */
+
+ul{
+	border-top: 1px solid #000;
+	list-style:none;
+	display:flex;
+	justify-content: space-between;
+	margin: 0 !important;
+	padding: 1.5%;
+	font-weight: bold;
+}
+
+/* Logo casing + logo */
+
+header{
+	margin-left: 5%;
+	width: 52%;
+}
+.logo{
+	width:70%;
+}
+
+/* Overlay styles */
+
+.overlay{
+	width: 40%;
+	margin: 3%;
+	background-color: #fff;
+	padding: 3%;
+}
+
+
+/* Footer styles */
+
+/* Link styles */
+
+	a{
+	text-decoration:none;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+nav{
+	border: 10px solid #000;
+	padding: 1%;
+	margin-left: 10%;
+	line-height: .8em;
+	height: 80%;
+}
+
+nav a{
+		color:#000;
+    position: relative;
+    display: block;
+    padding: 8px 0;
+    text-decoration: none;
+}
+
+nav a:hover {
+	color: #fff;
+}
+
+
+.apply{
+	border-bottom: 4px solid #000;
+	color: #000;
+}
+
+.apply:hover{
+	border-bottom: 4px solid #FF2626;
+		color: #FF2626;
+
+}
+
+.touch{
+	border-bottom: 4px solid #000;
+}
+
+.touch:hover{
+	border-bottom: 4px solid #FF2626;
+	color: #FF2626;
+}
+
+.touch{
+	color: #000;
+}
+
+.credit{
+	margin-bottom: 4%;
+}
+
+.credit a, .contact a{
+	color: #000;
+}
+
+.credit a:hover, .contact a:hover{
+			color: #FF2626;
+}
+
+p{
+	margin:0;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (max-width : 1224px) {
+/* Styles */
+body{
+}
+}
+
+@media only screen and (max-width : 1024px) {
+/* Styles */
+body{
+	font-size: 26px;
+}
+
+.container-1{
+}
+
+
+
+.img1{
+	width: 200px;
+	left: 5%;
+	top: 45%;
+}
+
+.img2{
+	top: 35%;
+	width: 75px;
+}
+
+.img3{
+	top: 68%;
+	width: 100px;
+}
+
+.overlay{
+	width: 60%;
+}
+
+.flex-2{
+	display:block;
+}
+
+.column-1, .column-2{
+	width: 100%;
+	text-align: center;
+}
+
+.column-3{
+	width: 80%;
+	font-size: 0.9em;
+	padding: 0 10%;
+	text-align: center;
+}
+
+.credit{
+	text-align: center;
+
+}
+
+}
+
+@media only screen and (max-width : 768px) {
+/* Styles */
+body{
+	font-size: 22px;
+}
+.img1{
+	left: 70%;
+	top: 60%;
+	width: 150px;
+}
+
+.img2{
+}
+
+.img3{
+	top: 70%;
+	left: 5%;
+}
+
+nav{
+	border: none;
+	padding: 0;
+	margin-left: 10%;
+	line-height: .8em;
+	height: 80%;
+	text-align: right;
+}
+
+ul{
+	display:block;
+	text-align: left;
+	padding: 5% 5% 5% 10%;
+	font-weight: bold;
+/*	line-height: 1.4em;
+*/}
+
+.overlay{
+	width: 85%;
+	padding: 5%;
+}
+
+.container-2{
+	padding: 7%;
+}
+
+.container-3{
+	padding: 10%;
+}
+
+
+
+
+}
+
+@media only screen and (max-width : 500px) {
+/* 
+Styles */
+body{
+}
+
+.img1{
+	left: 75%;
+	top: 85%;
+	width: 100px;
+}
+
+.img2{
+	top: 33%;
+}
+
+.img3{
+	top: 75%;
+	left: 5%;
+}
+
+.contact .display{
+	text-align:center;
+}
+nav a:first-child{
+	padding-top: 0;
+}
+
+header{
+	margin-left: 0%;
+}
+
+ul{
+	padding-left: 5%;
+}
+}
