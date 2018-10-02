@@ -335,8 +335,10 @@ body{
 	left: 5%;
 }
 
+
 .overlay{
-	width: 60%;
+	width: 85%;
+	padding: 5%;
 }
 
 .flex-2{
@@ -397,10 +399,6 @@ ul{
 	font-weight: bold;
 }
 
-.overlay{
-	width: 85%;
-	padding: 5%;
-}
 
 .container-2{
 	padding: 7%;
