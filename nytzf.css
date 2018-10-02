@@ -134,7 +134,7 @@ body{
 
 }
 
-.container-1, .container-3, .container-4, .container-5{
+.container-3, .container-4, .container-5{
 	padding: 3%;
 	position: relative;
 }
@@ -146,6 +146,7 @@ body{
 
 .container-1{
 	background-color: #FF3D3D;
+	padding: 3% 3% 5% 3%;
 }
 
 .full{
