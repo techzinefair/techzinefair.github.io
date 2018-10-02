@@ -388,6 +388,11 @@ nav {
 body{
 	font-size: 24px;
 }
+	
+header{
+	width: 70%;
+}
+	
 .img1{
 }
 
@@ -401,7 +406,7 @@ nav{
 	border: none;
 	padding: 0;
 	margin-left: 10%;
-	line-height: .8em;
+	line-height: 1em;
 	height: 80%;
 	text-align: right;
 	width: 50%
