@@ -101,7 +101,7 @@ body{
 	}
 
 .display{
-	    font-family: 'Georgia';
+	    font-family: 'Times';
 	    font-size: .9em;
 	    	line-height: 1.25em;
 }
@@ -140,7 +140,7 @@ body{
 }
 
 .container-2{
-	padding: 5%;
+	padding: 7% 5%;
 	position: relative;
 }
 
