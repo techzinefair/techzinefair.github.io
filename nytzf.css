@@ -326,11 +326,12 @@ body{
 }
 
 .img2{
-	top: 35%;
+	top: 40%;
 	width: 100px;
 }
 
 .img3{
+	width: 100px;
 	top: 75%;
 	left: 5%;
 }
@@ -390,6 +391,7 @@ nav{
 	line-height: .8em;
 	height: 80%;
 	text-align: right;
+	width: 30%
 }
 
 ul{
