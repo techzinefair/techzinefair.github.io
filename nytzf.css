@@ -334,12 +334,12 @@ header{
 .img1{
 	left: 75%;
 	top: 60%;
-	width: 150px;
+	width: 80px;
 }
 
 .img2{
 	top: 30%;
-	width: 80px;
+	width: 50px;
 }
 
 .img3{
@@ -406,8 +406,8 @@ header{
 	width: 40px;
 
 .img2{
-	width: 30px;
-		left: 1%;
+	width: 15px;
+	left: 1%;
 }
 
 .img3{
