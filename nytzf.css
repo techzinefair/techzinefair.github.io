@@ -203,7 +203,7 @@ ul{
 	display:flex;
 	justify-content: space-between;
 	margin: 0 !important;
-	padding: 1.5%;
+	padding: 1.5% 3%;
 	font-weight: bold;
 }
 
