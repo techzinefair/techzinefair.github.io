@@ -415,8 +415,13 @@ header{
 }
 
 	nav{
-	border: none;
-	width: 50%
+	border: 0;
+	width: 50%;
+	text-align: right;
+	}
+	
+	.logo{
+		width: 100%;
 	}
 
 
