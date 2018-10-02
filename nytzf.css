@@ -311,7 +311,11 @@ body{
 body{
 	font-size: 30px;
 }
-
+	
+header{
+	margin-left: 0;
+	}
+	
 .container-1{
 }
 	
