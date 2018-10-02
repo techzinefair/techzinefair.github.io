@@ -321,12 +321,13 @@ body{
 
 .img1{
 	left: 75%;
-	top: 85%;
+	top: 50%;
 	width: 100px;
 }
 
 .img2{
 	top: 33%;
+	width: 75px;
 }
 
 .img3{
