@@ -92,6 +92,10 @@ body{
 		line-height: 1.3em;
 }
 
+.container-3 .med-text{
+	font-size: 0.6em;
+}
+
 .large-text{
 	font-size: 0.75em;
 	}
