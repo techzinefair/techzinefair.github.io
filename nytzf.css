@@ -349,12 +349,7 @@ header{
 }
 	
 nav{
-	border: none;
-	padding: 0;
-	margin-left: 10%;
-	line-height: 1em;
-	height: 80%;
-	text-align: right;
+	border: 4px solid #000;
 	width: 50%
 	}
 
@@ -419,6 +414,10 @@ header{
 	width: 15px;
 }
 
+	nav{
+	border: none;
+	width: 50%
+	}
 
 
 .container-2{
