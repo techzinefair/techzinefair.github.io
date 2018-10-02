@@ -391,7 +391,7 @@ ul{
 
 }
 
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 900px) {
 
 body{
 	font-size: 30px;
