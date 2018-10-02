@@ -348,27 +348,11 @@ header{
 	left: 5%;
 }
 	
-/* nav {
+nav {
 	border: 4px solid #000;
 		width: 40%
-	} */
-	
-	nav{
-	border: none;
-	padding: 0;
-	margin-left: 10%;
-	line-height: .8em;
-	height: 80%;
-	text-align: right;
-	width: 50%
-}
+	}
 
-ul{
-	display:block;
-	text-align: left;
-	padding: 5% 5% 5% 10%;
-	font-weight: bold;
-}
 
 
 .overlay{
@@ -399,10 +383,10 @@ ul{
 
 }
 
-/* @media only screen and (max-width : 768px) {
+@media only screen and (max-width : 768px) {
 
 body{
-	font-size: 22px;
+	font-size: 24px;
 }
 .img1{
 }
@@ -439,9 +423,9 @@ ul{
 
 
 
-} */
+}
 
-@media only screen and (max-width : 500px) {
+@media only screen and (max-width : 600px) {
 body{
 }
 
