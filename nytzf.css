@@ -118,8 +118,8 @@ body{
 }
 
 .vendors:hover {
-		border-bottom: 4px solid #FF2626;
-		color: #FF2626;
+		border-bottom: 4px solid #FF3D3D;
+		color: #FF3D3D;
 }
 
 
@@ -276,8 +276,8 @@ nav a:hover {
 }
 
 .apply:hover{
-	border-bottom: 4px solid #FF2626;
-		color: #FF2626;
+	border-bottom: 4px solid #FF3D3D;
+		color: #FF3D3D;
 
 }
 
@@ -286,8 +286,8 @@ nav a:hover {
 }
 
 .touch:hover{
-	border-bottom: 4px solid #FF2626;
-	color: #FF2626;
+	border-bottom: 4px solid #FF3D3D;
+	color: #FF3D3D;
 }
 
 .touch{
@@ -303,7 +303,7 @@ nav a:hover {
 }
 
 .credit a:hover, .contact a:hover{
-			color: #FF2626;
+			color: #FF3D3D;
 }
 
 p{
