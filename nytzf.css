@@ -39,13 +39,13 @@ body{
 .img1{
 	width: 250px;
 	left: 6%;
-	top: 63%;
+	top: 60%;
 }
 
 .img2{
-	width: 100px;
+	width: 150px;
 	left: 3%;
-	top:50%;
+	top:45%;
 }
 
 .img3{
@@ -298,15 +298,11 @@ nav a:hover {
 p{
 	margin:0;
 }
-/* 
-@media only screen  and (max-width : 1224px) {
-body{
-}
-}
 
+/* 
 @media only screen and (max-width : 1024px) {
 body{
-	font-size: 26px;
+	font-size: 30px;
 }
 
 .container-1{
