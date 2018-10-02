@@ -403,6 +403,7 @@ header{
 	
 .img1{
 	width: 40px;
+	left: 90%;
 	}
 
 .img2{
@@ -411,8 +412,8 @@ header{
 }
 
 .img3{
-		top: 95%;
-	width: 40px;
+		top: 90%;
+	width: 60px;
 }
 
 	nav{
