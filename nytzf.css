@@ -348,11 +348,15 @@ header{
 	left: 5%;
 }
 	
-/* nav {
-	border: 4px solid #000;
-		width: 40%
+nav{
+	border: none;
+	padding: 0;
+	margin-left: 10%;
+	line-height: 1em;
+	height: 80%;
+	text-align: right;
+	width: 50%
 	}
- */
 
 
 .overlay{
@@ -415,15 +419,7 @@ header{
 	width: 15px;
 }
 
-nav{
-	border: none;
-	padding: 0;
-	margin-left: 10%;
-	line-height: 1em;
-	height: 80%;
-	text-align: right;
-	width: 50%
-	}
+
 
 .container-2{
 	padding: 7%;
