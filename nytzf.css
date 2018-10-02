@@ -335,6 +335,10 @@ body{
 	top: 75%;
 	left: 5%;
 }
+	
+nav {
+		width: 40%
+	}
 
 
 .overlay{
