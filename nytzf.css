@@ -403,9 +403,11 @@ header{
 }
 	
 .img1{
+	left: 0%
 }
 
 .img2{
+	left:100%
 }
 
 .img3{
