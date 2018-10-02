@@ -101,8 +101,8 @@ body{
 	}
 
 .display{
-	    font-family: 'Times';
-	    font-size: .9em;
+	    font-family: 'Georgia';
+	    font-size: 1em;
 	    	line-height: 1.25em;
 }
 
@@ -112,11 +112,23 @@ body{
 	    	line-height: 1.25em;
 }
 
+.vendors{
+	border-bottom: 4px solid #fff;
+	color: #fff;
+}
+
+.vendors: hover {
+		border-bottom: 4px solid #FF2626;
+		color: #FF2626;
+}
+
+
 /* .title{
 	text-transform: uppercase;
 } */
 
 /*Container Styles*/
+
 .container
 {max-width: 94%;
 
