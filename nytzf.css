@@ -319,17 +319,19 @@ body{
 	padding: 10%;
 }
 
-
-
-
- .img1{
+.img1{
+	left: 75%;
+	top: 85%;
+	width: 100px;
 }
 
 .img2{
-	}
+	top: 33%;
+}
 
 .img3{
-
+	top: 75%;
+	left: 5%;
 }
 
 .overlay{
@@ -411,21 +413,6 @@ ul{
 
 @media only screen and (max-width : 500px) {
 body{
-}
-
-.img1{
-	left: 75%;
-	top: 85%;
-	width: 100px;
-}
-
-.img2{
-	top: 33%;
-}
-
-.img3{
-	top: 75%;
-	left: 5%;
 }
 
 .contact .display{
