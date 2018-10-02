@@ -371,17 +371,12 @@ body{
 	font-size: 22px;
 }
 .img1{
-	left: 70%;
-	top: 60%;
-	width: 150px;
 }
 
 .img2{
 }
 
 .img3{
-	top: 70%;
-	left: 5%;
 }
 
 nav{
@@ -391,7 +386,7 @@ nav{
 	line-height: .8em;
 	height: 80%;
 	text-align: right;
-	width: 30%
+	width: 50%
 }
 
 ul{
