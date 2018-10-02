@@ -24,7 +24,7 @@ body{
 	min-width: 100%;
 	margin: 0 auto;
 	font-family: FranklinGothic;
-	font-size: 40px;
+	font-size: 36px;
 	color: #000;
 	overflow:auto;
 }
@@ -294,16 +294,13 @@ nav a:hover {
 p{
 	margin:0;
 }
-
-/* Desktops and laptops ----------- */
+/* 
 @media only screen  and (max-width : 1224px) {
-/* Styles */
 body{
 }
 }
 
 @media only screen and (max-width : 1024px) {
-/* Styles */
 body{
 	font-size: 26px;
 }
@@ -313,7 +310,7 @@ body{
 
 
 
-/* .img1{
+ .img1{
 	width: 200px;
 	left: 5%;
 	top: 45%;
@@ -327,7 +324,7 @@ body{
 .img3{
 	top: 68%;
 	width: 100px;
-} */
+}
 
 .overlay{
 	width: 60%;
@@ -357,7 +354,7 @@ body{
 }
 
 @media only screen and (max-width : 768px) {
-/* Styles */
+
 body{
 	font-size: 22px;
 }
@@ -389,8 +386,7 @@ ul{
 	text-align: left;
 	padding: 5% 5% 5% 10%;
 	font-weight: bold;
-/*	line-height: 1.4em;
-*/}
+}
 
 .overlay{
 	width: 85%;
@@ -411,8 +407,6 @@ ul{
 }
 
 @media only screen and (max-width : 500px) {
-/* 
-Styles */
 body{
 }
 
@@ -445,4 +439,4 @@ header{
 ul{
 	padding-left: 5%;
 }
-}
+} */
