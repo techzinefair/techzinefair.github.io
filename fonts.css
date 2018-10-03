@@ -37,7 +37,7 @@ body{
 
 .center-text{
 		text-align: center;
-			font-size: 1.35em;
+			font-size: 1.45em;
 		line-height: 1.5em;
 		font-family:Arial;
 		width: 70%;
@@ -126,7 +126,7 @@ body{
 
 @media (max-width : 1024px) {
 .center-text{
-			font-size: 1.25em;
+			font-size: 1.35em;
 }
 
 .heading-1{
