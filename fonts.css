@@ -135,6 +135,11 @@ body{
 .header-text{
 	font-size: 1em;
 }
+
+.small-text{
+	font-size: 0.8em;
+}
+
 .display-link{
 	border-bottom: 1px solid #fff;
 	color: #fff;
