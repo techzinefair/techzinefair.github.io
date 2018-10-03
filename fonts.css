@@ -136,8 +136,11 @@ body{
 	font-size: 1em;
 }
 
+.text{
+	font-size: .8em;
+}
 .small-text{
-	font-size: 1em;
+	font-size: .8em;
 }
 
 .display-link{
