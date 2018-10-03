@@ -279,6 +279,22 @@ header{
 	line-height: 2em;
 }
 
+
+.flex-2{
+	display:block;
+	text-align: center;
+	width: 100%;
+}
+
+.first{
+	display: block;
+	}
+
+	.column-1, .column-2, .first, .second{
+		width: 100%;
+		text-align: center;
+	}
+	
 .img1{
 	left: 75%;
 	top: 45%;
@@ -356,18 +372,4 @@ nav a:first-child{
 }
 
 
-.flex-2{
-	display:block;
-	text-align: center;
-	width: 100%;
-}
-
-.first{
-	display: block;
-	}
-
-	.column-1, .column-2, .first, .second{
-		width: 100%;
-		text-align: center;
-	}
 }
