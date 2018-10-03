@@ -10,6 +10,11 @@
     });
 })(jQuery);
 
+const mq = window.matchMedia( "(min-width: 900px)" );
+
+
+if (mq.matches) {
+// window width is at least 500px
 var sdegree = 0;
 
 $(window).scroll(function(event){
@@ -30,3 +35,7 @@ $(window).scroll(function(event){
 
 
 });
+} else {
+
+}
+
