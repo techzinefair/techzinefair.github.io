@@ -1,0 +1,157 @@
+/* Stylez */
+@font-face {
+    font-family: FranklinGothic;
+    src: url("franklingothic-book.otf") format("opentype");
+}
+
+@font-face {
+    font-family: FranklinGothic;
+    font-weight: bold;
+    src: url("franklingothic-demi.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Syne-Bold;
+        src: url("Syne-Bold.otf") format("opentype");
+    src: url("Syne-Bold.ttf") format("truetype");
+    src: url("Syne-Bold.woff") format("woff");
+    src: url("Syne-Bold.woff2") format("woff2");
+    src: url("Syne-Bold.eot") format("embedded-opentype");
+}
+
+@font-face {
+    font-family: Syne;
+        src: url("Syne-Regular.otf") format("opentype");
+    src: url("Syne-Regular.ttf") format("truetype");
+    src: url("Syne-Regular.woff") format("woff");
+    src: url("Syne-Regular.woff2") format("woff2");
+    src: url("Syne-Regular.eot") format("embedded-opentype");
+}
+
+/*Text Styles*/
+
+body{
+	font-family: FranklinGothic;
+}
+
+.center{
+		text-align: center;
+}
+
+.heading-1{
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.text{
+	font-size: 0.7em;
+		line-height: 1.3em;
+			font-family: Arial;
+}
+
+.bullet{
+	font-size: .9em;
+}
+
+.small-text{
+	font-size: 0.65em;
+}
+
+.med-text{
+	font-size: 0.9em;
+}
+
+.large-text{
+	font-size: 0.75em;
+	}
+
+.header-text{
+	font-size: 1.5em;
+	font-family:FranklinGothic;
+}
+
+.upper{
+		font-family:FranklinGothic;
+	text-transform:uppercase;
+	font-size: 1em;
+}
+
+.upper-bigger{
+		font-family:FranklinGothic;
+	text-transform:uppercase;
+	font-size: 1.2em;
+	line-height: 1.75em;
+	color: #000;
+}
+
+.apply{
+	background-color: #000;
+	padding: 0 1%;
+	border-bottom: none;
+	color: #fff;
+}
+
+.apply:hover{
+		background-color: #FF3D3D;
+		border-bottom: none;
+}
+
+.display-text{
+	line-height: 1.5em;
+}
+
+.display-link{
+	border-bottom: 4px solid #fff;
+	color: #fff;
+}
+
+.display-link:hover {
+		border-bottom: 4px solid #FF3D3D;
+		color: #FF3D3D;
+}
+
+.black-display-link{
+	border-bottom: 4px solid #000;
+	color: #000;
+}
+
+.black-display-link:hover {
+		border-bottom: 4px solid #FF3D3D;
+		color: #FF3D3D;
+}
+
+.topic{
+	text-decoration: underline;
+	font-size: 0.9em;
+	padding-bottom: 100px;
+	text-transform: uppercase;
+}
+
+
+
+@media only screen and (min-width : 300px) and (max-width: 950px) {
+
+
+.header-text{
+	font-size: 1em;
+}
+.display-link{
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}
+
+.display-link:hover {
+		border-bottom: 1px solid #FF3D3D;
+		color: #FF3D3D;
+}
+
+.black-display-link{
+	border-bottom: 1px solid #000;
+	color: #000;
+}
+
+.black-display-link:hover {
+		border-bottom: 1px solid #FF3D3D;
+		color: #FF3D3D;
+}
+}
