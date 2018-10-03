@@ -2,7 +2,7 @@ body{
 	position:relative;
 	min-width: 100%;
 	margin: 0 auto;
-	font-size: 34px;
+	font-size: 32px;
 	color: #000;
 	overflow:auto;
 }
@@ -256,7 +256,7 @@ p{
  
 @media (max-width : 1200px) {
 body{
-	font-size: 30px;
+	font-size: 28px;
 }
 	
 header{
