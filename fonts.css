@@ -57,6 +57,10 @@ body{
 	font-size: 0.65em;
 }
 
+.smaller-text{
+	font-size: .75em;
+}
+
 .med-text{
 	font-size: 0.9em;
 }
