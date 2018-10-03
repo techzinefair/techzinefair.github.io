@@ -153,6 +153,24 @@ body{
 	font-size: 1.25em;
 }
 
+.display-link{
+	border-bottom: 2px solid #fff;
+	color: #fff;
+}
+
+.display-link:hover {
+		border-bottom: 2px solid #FF3D3D;
+		color: #FF3D3D;
+}
+
+.black-display-link{
+	border-bottom: 2px solid #000;
+	color: #000;
+}
+
+.black-display-link:hover {
+		border-bottom: 2px solid #FF3D3D;
+		color: #FF3D3D;
 
 }
 
@@ -160,9 +178,8 @@ body{
 
 @media only screen and (min-width : 300px) and (max-width: 768px) {
 
-
 .heading-1{
-	font-size: 1.45em;
+	font-size: 1.5em;
 	font-family:FranklinGothic;
 }
 
@@ -171,17 +188,17 @@ body{
 }
 
 .heading-2{
-	font-size: 1.25em;
+	font-size: 1.35em;
 	font-weight: bold;
 }
 
 .text{
-	font-size: 1em;
-	line-height: 1.5em;
+	font-size: 1.05em;
+	line-height: 1.75em;
 }
 
 .center-text{
-		font-size: 1em;
+		font-size: 1.15em;
 }
 
 
