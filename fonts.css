@@ -32,72 +32,61 @@
 
 body{
 	font-family: FranklinGothic;
+	font-size: 16px;
 }
 
-.center{
+.center-text{
 		text-align: center;
+			font-size: 1.35em;
+		line-height: 1.5em;
+		font-family:Arial;
+		width: 70%;
+		padding: 5% 15%;
 }
 
 .heading-1{
-	font-size: 1em;
+	font-size: 3em;
+	font-family:FranklinGothic;
+}
+
+.nav-text{
+	font-size: 1.45em;
+}
+
+.heading-2{
+	font-size: 2em;
 	font-weight: bold;
 }
 
 .text{
-	font-size: 0.7em;
-		line-height: 1.3em;
-			font-family: Arial;
+	font-size: 1.35em;
+	line-height: 1.3em;
+	font-family: Arial;
 }
 
-.bullet{
+.smaller-text{
 	font-size: .9em;
 }
 
 .small-text{
-	font-size: 0.65em;
+	font-size: 1.3em;
 }
 
-.smaller-text{
-	font-size: .75em;
-}
-
-.med-text{
-	font-size: 0.9em;
-}
-
-.large-text{
-	font-size: 0.75em;
-	}
-
-.header-text{
+.bullet{
 	font-size: 1.5em;
+}
+
+.apply-text{
+	border-bottom: solid 4px #000;
+	color: #000;
 	font-family:FranklinGothic;
-}
-
-.upper{
-		font-family:FranklinGothic;
-	text-transform:uppercase;
-	font-size: 1em;
-}
-
-.upper-bigger{
-		font-family:FranklinGothic;
 	text-transform:uppercase;
 	font-size: 1.2em;
-	line-height: 1.75em;
-	color: #000;
 }
 
-.apply{
-	background-color: #000;
-	padding: 0 1%;
-	border-bottom: none;
-	color: #fff;
-}
-
-.apply:hover{
-		background-color: #FF3D3D;
-		border-bottom: none;
+.apply-text:hover{
+		color: #FF3D3D;
+	border-bottom: solid 4px #FF3D3D;
 }
 
 .display-text{
@@ -125,49 +114,75 @@ body{
 }
 
 .topic{
-	text-decoration: underline;
-	font-size: 0.9em;
-	padding-bottom: 100px;
+	font-size: .75em;
+	padding-bottom: 5%;
 	text-transform: uppercase;
 }
+}
 
+@media (max-width : 1300px) {
 
+}
 
-@media only screen and (min-width : 300px) and (max-width: 950px) {
+@media (max-width : 1024px) {
+.center-text{
+			font-size: 1.25em;
+}
 
+.heading-1{
+	font-size: 2em;
+}
 
-.header-text{
-	font-size: 1em;
+.heading-2{
+	font-size: 1.75em;
 }
 
 .text{
-	font-size: .8em;
-}
-.small-text{
-	font-size: .8em;
+	font-size: 1.25em;
 }
 
 .smaller-text{
-	font-size: .75em;
+	font-size: .8em;
 }
 
-.display-link{
-	border-bottom: 1px solid #fff;
-	color: #fff;
+.small-text{
+	font-size: 1.15em;
 }
 
-.display-link:hover {
-		border-bottom: 1px solid #FF3D3D;
-		color: #FF3D3D;
+.bullet{
+	font-size: 1.25em;
 }
 
-.black-display-link{
-	border-bottom: 1px solid #000;
-	color: #000;
+
 }
 
-.black-display-link:hover {
-		border-bottom: 1px solid #FF3D3D;
-		color: #FF3D3D;
+
+
+@media only screen and (min-width : 300px) and (max-width: 768px) {
+
+
+.heading-1{
+	font-size: 1.45em;
+	font-family:FranklinGothic;
 }
+
+.nav-text{
+	font-size: 1.25em;
+}
+
+.heading-2{
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+.text{
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+.center-text{
+		font-size: 1em;
+}
+
+
 }

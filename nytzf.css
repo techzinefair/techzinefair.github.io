@@ -2,7 +2,6 @@ body{
 	position:relative;
 	min-width: 100%;
 	margin: 0 auto;
-	font-size: 32px;
 	color: #000;
 	overflow:auto;
 }
@@ -90,14 +89,21 @@ body{
 }
 
 .container-2{
-	padding: 5%;
+	padding: 7%;
 	position: relative;
+}
+
+.apply{
+	padding-top: 3%;
+	display:flex;
+	justify-content: flex-end;
 }
 
 
 .full{
 	background-color: #FF3D3D;
 	width: 100% !important!;
+		    box-shadow: 0 5px;
 }
 
 .flex{
@@ -149,8 +155,8 @@ body{
 .container-4{
 	background-color: #fff;
 	color: #000;
-	border-top: 4px dashed #000;
-	border-bottom: 4px dashed #000;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
 	padding: 5% 10%;
 	line-height: 1.5em;
 	text-align: left;
@@ -254,9 +260,8 @@ p{
 	margin:0;
 }
  
-@media (max-width : 1200px) {
+@media (max-width : 1024px) {
 body{
-	font-size: 28px;
 }
 	
 header{
@@ -323,10 +328,9 @@ ul{
 
 }
 
-@media only screen and (min-width : 300px) and (max-width: 950px) {
+@media only screen and (min-width : 300px) and (max-width: 768px) {
 
 body{
-	font-size: 26px;
 }
 	
 header{
@@ -354,7 +358,7 @@ header{
 	}
 
 	.logo{
-		width: 100%;
+		width: 70%;
 	}
 
 
