@@ -45,7 +45,7 @@ body{
 }
 
 .heading-1{
-	font-size: 3.25em;
+	font-size: 3.5em;
 	font-family:FranklinGothic;
 }
 
@@ -130,7 +130,7 @@ body{
 }
 
 .heading-1{
-	font-size: 2em;
+	font-size: 2.5em;
 }
 
 .heading-2{
@@ -188,13 +188,13 @@ body{
 }
 
 .heading-2{
-	font-size: 1.35em;
+	font-size: 1.5em;
 	font-weight: bold;
 }
 
 .text{
 	font-size: 1.05em;
-	line-height: 1.75em;
+	line-height: 1.5em;
 }
 
 .center-text{
