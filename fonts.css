@@ -180,32 +180,28 @@ body{
 
 
 
-@media only screen and (min-width : 300px) and (max-width: 768px) {
+@media only screen and (min-width : 300px) and (max-width: 768px) {		
 	
-.heading-1{
-	font-size: 2em;
-	font-family:FranklinGothic;
+ .heading-1{	
+	font-size: 1.75em;		
+	font-family:FranklinGothic;		
 }
-
-.nav-text{
-	font-size: 1.75em;
+ .nav-text{
+	font-size: 1.5em;
 }
-
-.heading-2{
-	font-size: 1.75em;
+ .heading-2{
+	font-size: 1.5em;
 	font-weight: bold;
 }
-	
-	.display-text{
-	font-family:FranklinGothic;
-	line-height: 1.75em;
-}
-
-.text{
-	font-size: 1.75em;
+			
+ 	.display-text{
+ 	font-family:FranklinGothic;
+ 	line-height: 1.75em;
+}	
+ .text{	
+	font-size: 1.5em;
 	line-height: 1.5em;
 }
-
 .center-text{
 		font-size: 1.15em;
 }
