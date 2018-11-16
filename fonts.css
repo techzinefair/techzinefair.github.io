@@ -183,12 +183,12 @@ body{
 @media only screen and (min-width : 300px) and (max-width: 768px) {
 
 .heading-1{
-	font-size: 1.5em;
+	font-size: 1.75em;
 	font-family:FranklinGothic;
 }
 
 .nav-text{
-	font-size: 1.25em;
+	font-size: 1.5em;
 }
 
 .heading-2{
@@ -197,7 +197,7 @@ body{
 }
 
 .text{
-	font-size: 1.05em;
+	font-size: 1.25em;
 	line-height: 1.5em;
 }
 
