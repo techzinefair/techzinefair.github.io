@@ -195,6 +195,11 @@ body{
 	font-size: 1.5em;
 	font-weight: bold;
 }
+	
+	.display-text{
+	font-family:FranklinGothic;
+	line-height: 1.75em;
+}
 
 .text{
 	font-size: 1.5em;
