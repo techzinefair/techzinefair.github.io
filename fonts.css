@@ -90,26 +90,30 @@ body{
 }
 
 .display-text{
-	line-height: 1.5em;
+	font-family:FranklinGothic;
+	line-height: 1.6em;
 }
 
 .display-link{
-	border-bottom: 4px solid #fff;
+	border-bottom: 2px solid #fff;
+	padding-bottom: 1px;
 	color: #fff;
+	font-weight: normal;
 }
 
 .display-link:hover {
-		border-bottom: 4px solid #FF3D3D;
+		border-bottom: 2px solid #FF3D3D;
+			padding-bottom: 1px;
 		color: #FF3D3D;
 }
 
 .black-display-link{
-	border-bottom: 4px solid #000;
+	border-bottom: 2px solid #000;
 	color: #000;
 }
 
 .black-display-link:hover {
-		border-bottom: 4px solid #FF3D3D;
+		border-bottom: 2px solid #FF3D3D;
 		color: #FF3D3D;
 }
 
