@@ -36,12 +36,11 @@ body{
 }
 
 .center-text{
-		text-align: center;
+		text-align: left;
 			font-size: 1.45em;
-		line-height: 1.5em;
+		line-height: 2em;
 		font-family:Arial;
-		width: 70%;
-		padding: 5% 15%;
+		width: 80%;
 }
 
 .heading-1{
@@ -91,7 +90,8 @@ body{
 
 .display-text{
 	font-family:FranklinGothic;
-	line-height: 1.6em;
+	line-height: 1.8em;
+	font-size: 1.45em;
 }
 
 .display-link{
@@ -110,6 +110,7 @@ body{
 .black-display-link{
 	border-bottom: 2px solid #000;
 	color: #000;
+		font-weight: normal;
 }
 
 .black-display-link:hover {
@@ -142,6 +143,10 @@ body{
 }
 
 .text{
+	font-size: 1.25em;
+}
+
+.display-text{
 	font-size: 1.25em;
 }
 
@@ -183,11 +188,11 @@ body{
 @media only screen and (min-width : 300px) and (max-width: 768px) {		
 	
  .heading-1{	
-	font-size: 1.75em;		
+	font-size: 1.5em;		
 	font-family:FranklinGothic;		
 }
  .nav-text{
-	font-size: 1.5em;
+	font-size: 1.15em;
 }
  .heading-2{
 	font-size: 1.5em;
@@ -196,10 +201,10 @@ body{
 			
  	.display-text{
  	font-family:FranklinGothic;
- 	line-height: 1.75em;
+ 	font-size: 1.15em;
 }	
  .text{	
-	font-size: 1.5em;
+	font-size: 1.05em;
 	line-height: 1.5em;
 }
 .center-text{
