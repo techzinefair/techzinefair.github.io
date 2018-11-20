@@ -192,7 +192,7 @@ ul{
 	display:flex;
 	justify-content: space-between;
 	margin: 0 !important;
-	padding: 1.5% 3%;
+	padding: 1.5% 3% 3% 3%;
 	font-weight: bold;
 }
 
@@ -208,7 +208,7 @@ header{
 /* Overlay styles */
 
 .overlay{
-	width: 55%;
+	width: 60%;
 	margin: 3%;
 	background-color: #fff;
 	padding: 3%;
