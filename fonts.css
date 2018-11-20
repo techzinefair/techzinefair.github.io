@@ -186,10 +186,7 @@ body{
 
 
 @media only screen and (min-width : 200px) and (max-width: 768px) {		
-	
-	body{
-		font-size: 18px;
-	}
+
  .heading-1{	
 	font-size: 1.5em;		
 	font-family:FranklinGothic;		
