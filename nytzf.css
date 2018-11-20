@@ -344,10 +344,13 @@ ul{
 
 }
 
-@media only screen and (min-width : 300px) and (max-width: 768px) {
+@media only screen and (min-width : 200px) and (max-width: 600px) {
 
 body{
 }
+
+ul{
+padding: 5% 5% 10% 5%;}
 	
 header{
 	width: 70%;
@@ -380,6 +383,10 @@ header{
 
 .container-2{
 	padding: 10%;
+}
+
+.container-3, .container-4, .container-5{
+	padding: 15% 7%;
 }
 
 .contact .display{

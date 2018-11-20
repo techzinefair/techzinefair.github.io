@@ -164,7 +164,7 @@ body{
 }
 
 .nav-text{
-	font-size: 3.5vw;
+	font-size: 3.75vw;
 }
 
 .heading-2{
@@ -172,7 +172,7 @@ body{
 }
 
 .text{
-	font-size: 3.25vw;
+	font-size: 3.5vw;
 	line-height: 1.5em;
 }
 
@@ -185,8 +185,8 @@ body{
 }
 
 .display-text{
-	line-height: 1.8em;
-	font-size: 3.5vw;
+	line-height: 1.5em;
+	font-size: 4vw;
 }
 
 
