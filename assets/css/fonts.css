@@ -49,6 +49,10 @@ body{
 	font-weight: bold;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .text{
 	font-size: 1.65vw;
 	line-height: 1.3em;
