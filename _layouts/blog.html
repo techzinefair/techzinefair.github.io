@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="blog-container">
+  {%- if page.title -%}
+<!--    <h1 class="page-heading">{{ page.title }}</h1> -->
+  {%- endif -%}
+
+  <div class="container-1 container">
+    <div class="flex">
+      <header><a href="#home"><img class="logo" src="/assets/images/header.png"></a></header>
+      <nav class="heading-1">
+        <a href="/#about">About ◦ </a>
+              <a href="#vendors">Vendors ◦ </a>
+              <a href="#workshops">Workshops ◦ </a>
+        <a href="https://www.eventbrite.com/e/new-york-tech-zine-fair-vip-reception-tickets-52339540976"> VIP Reception ◦ </a> 
+        <a href="#contact">Contact ◦ </a>
+        <a href="/blog">Blog ◦ </a>
+      </nav>
+    </div>
+  </div>
+  <div class="full">
+    <ul class="nav-text">
+      <li>School for Poetic Computation</li>
+      <li>155 Bank St, NYC</li>
+      <li>December 1 (12-7pm) </li>
+      <li>Free Entrance</li>
+    </ul>
+  </div>
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

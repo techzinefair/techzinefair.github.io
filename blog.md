@@ -3,4 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: blog
+title: New York Tech Zine Fair Blog
 ---
