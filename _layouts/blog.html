@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="blog-container">
+  {%- if page.title -%}
+<!--    <h1 class="page-heading">{{ page.title }}</h1> -->
+  {%- endif -%}
+
+  {% include header.html %}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="blog-post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="small-text">{{ post.date | date: date_format }}</span>
+        <div class="post-thumbnail">
+          <img src="{{post.thumbnail}}"/>
+        </div>
+        <div class="heading-1">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </div>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
