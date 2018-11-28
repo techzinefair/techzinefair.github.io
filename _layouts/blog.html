@@ -17,17 +17,18 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="small-text">{{ post.date | date: date_format }}</span>
-        <div class="post-thumbnail">
-          <img src="{{post.thumbnail}}"/>
-        </div>
-        <div class="heading-1">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </div>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <div class="post-thumbnail">
+            <img src="{{post.thumbnail}}"/>
+          </div>
+          <div class="heading-1">
+            
+              {{ post.title | escape }}
+          </div>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </a>
       </li>
       {%- endfor -%}
     </ul>

@@ -5,9 +5,9 @@ layout: default
 
 <div class="article-container">
   <article class="blog-post-container h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-    <a class=small-text" href="/blog">←Back to blog</a>
+    
     <div class="blog-post-header">
-      <div class="heading-1 bold" itemprop="name headline">{{ page.title | escape }}</div>
+      <div class="nav-text bold" itemprop="name headline">{{ page.title | escape }}</div>
       <p class="post-meta smaller-text">
         <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -21,6 +21,8 @@ layout: default
     <div class="blog-post-content e-content" itemprop="articleBody">
       {{ content }}
     </div>
+
+    <a href="/blog">←Back to blog</a>
 
     {%- if site.disqus.shortname -%}
       {%- include disqus_comments.html -%}
