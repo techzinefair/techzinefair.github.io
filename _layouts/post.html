@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% include header.html %}
+
+<div class="article-container">
+  <article class="blog-post-container h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <div class="blog-post-header">
+      <div class="nav-text bold" itemprop="name headline">{{ page.title | escape }}</div>
+      <p class="post-meta smaller-text">
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+        {%- if page.author -%}
+          by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        {%- endif -%}</p>
+    </div>
+
+    <div class="blog-post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <a href="/blog">←Back to blog</a>
+
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+</div>
