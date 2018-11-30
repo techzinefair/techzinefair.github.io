@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In conversation with Amy Wibowo on femininity, making cute zines and decolonizing technology"
+title:  "Amy Wibowo on femininity, making cute zines and decolonizing technology"
 date:   2018-11-25 16:35:06 -0500
 thumbnail: /assets/images/blog/amy_wibowo.png
 author: "Neta Bomani"
