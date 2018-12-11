@@ -108,7 +108,7 @@ You can use any other elements of the Markdown syntax, but there is a chance the
 
 Once you add a new blogpost under this structure, it will show up in the list of posts at `localhost:4000/blog`, and its contents will be viewable when clicking on the post listing.
 
-To learn more, check out the [oficial Jekyll documentation for blog posts](https://jekyllrb.com/docs/posts/).
+To learn more, check out the [official Jekyll documentation for blog posts](https://jekyllrb.com/docs/posts/).
 
 ## Pushing to the main repository
 First of all, make sure to commit the changes you've made. In the main project directory, run: 
