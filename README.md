@@ -30,6 +30,21 @@ You should now be ready to run the site locally. Execute `bundle exec jekyll ser
 
 ## Adding content to the blog locally
 
+Jekyll is meant for static, blog-aware websites and uses a combination of Markdown files for content, HTML files for templates & layouts, and CSS for styling. Adding a new blog post only involves creating and editing Markdown files. You can find a quick Markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+All blogposts live under the `_posts` directory. The filename structure is `YEAR-MONTH-DAY-title.md` (e.g. `2018-11-27-in-conversation-with-wren-mcdonald.md`.) If you open an [existing post's .md file](https://raw.githubusercontent.com/CezarMocan/ritughiya.github.io/master/_posts/2018-11-27-in-conversation-with-wren-mcdonald.md), you will notice the following header:
+```
+---
+layout: post
+title:  "Wren McDonald on living in a cyberpunk world, zines as art objects and 90s nostalgia"
+date:   2018-11-27 16:35:06 -0500
+thumbnail: /assets/images/blog/wrenmcdonald1.jpg
+author: "Neta Bomani"
+---
+```
+
+The `layout: post` field should stay constant across all posts, it instructs Jekyll to use the [blog post HTML template](https://github.com/ritughiya/ritughiya.github.io/blob/master/_layouts/post.html). All other fields will change from post to post. Make sure the image path in the `thumbnail` field matches exactly the name of the image under the `assets` folder. You can create any kind of subdirectory structure you want (e.g. one folder per blog post, etc.) 
+
 ## Pushing new content to the main repository
 
 ## Code structure
