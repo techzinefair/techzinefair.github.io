@@ -6,7 +6,6 @@ This is the New York Tech Zine Fair website repository. It uses [Jekyll](https:/
 1. [First time setup](#first-time-setup)
 2. [Adding content to the blog locally](#adding-content-to-the-blog-locally)
 3. [Pushing to the main repository](#pushing-to-the-main-repository) 
-3. [Code structure](#code-structure)
 
 
 ## First time setup
@@ -131,5 +130,3 @@ The last step is to navigate to the Github page of your fork, and create a pull 
 ![PR](https://i.imgur.com/cf2vbeB.png)
 
 Once you've created the pull request, Ritu or Taeyoon will review it, merge it into the main repository and deploy the blog updates to the live website. That's it!
-
-## Code structure
