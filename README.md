@@ -59,7 +59,7 @@ author: "Neta Bomani"
 ---
 ```
 
-The `layout: post` field should stay constant across all posts, as it instructs Jekyll to use the [blog post HTML template](https://github.com/ritughiya/ritughiya.github.io/blob/master/_layouts/post.html). All other fields will change from post to post. Make sure the image path in the `thumbnail` field matches exactly the name of the image under the `assets/images` folder. You can create any kind of subdirectory structure you want (e.g. one folder per blog post, etc.) This will be the image that appears on the [blog index page](http://techzinefair.org/blog).
+The `layout: post` field should stay constant across all posts, as it instructs Jekyll to use the [blog post HTML template](https://github.com/ritughiya/ritughiya.github.io/blob/master/_layouts/post.html). All other fields will change from post to post. Make sure the image path in the `thumbnail` field matches exactly the name of the image under the `assets/images` folder. You can create any kind of subdirectory structure you want (e.g. one folder per blog post, etc.) This will be the post image that appears on the [blog index page](http://techzinefair.org/blog).
 
 Following the header is the content of the post, styled using Markdown syntax. We are currently using a small subset of it. The output of the examples here will look slightly different than the ones on the blog—in there, we're styling these components to respect the site design. But the Markdown syntax is the same.
 
