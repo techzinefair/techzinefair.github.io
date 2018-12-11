@@ -20,6 +20,21 @@ The URL for the forked repository should look like this: `https://github.com/YOU
 git clone https://github.com/YOUR_GITHUB_USERNAME/ritughiya.github.io.git
 ```
 
+The last step is to add the original repository as a remote, in order to be able to keep up to date with it. Go to the project directory and run:
+
+```bash
+git remote add upstream https://github.com/ritughiya/ritughiya.github.io.git
+```
+
+If you now run `git remote -v`, you should see 4 entries: two for your fork (`origin`), two for the original (`upstream`):
+```
+origin	git@github.com:YOUR_GITHUB_USERNAME/ritughiya.github.io.git (fetch)
+origin	git@github.com:YOUR_GITHUB_USERNAME/ritughiya.github.io.git (push)
+upstream	https://github.com/ritughiya/ritughiya.github.io (fetch)
+upstream	https://github.com/ritughiya/ritughiya.github.io (push)
+```
+
+
 ### 2. Getting the development environment set up
 
 Follow the [Jekyll Installation Guide](https://jekyllrb.com/docs/installation/) in order to install Jekyll (and the Ruby dev environment) on your computer. 
@@ -49,7 +64,6 @@ The `layout: post` field should stay constant across all posts, as it instructs 
 Following the header is the content of the post, styled using Markdown syntax. We are currently using a small subset of it. The output of the examples here will look slightly different than the ones on the blog—in there, we're styling these components to respect the site design. But the Markdown syntax is the same.
 
 1. Questions—bolded & italicized
-In Markdown syntax, three stars signify bold & italic. 
 ```
 *** bold & italic text ***
 ``` 
@@ -94,8 +108,28 @@ You can use any other elements of the Markdown syntax, but there is a chance the
 
 Once you add a new blogpost under this structure, it will show up in the list of posts at `localhost:4000/blog`, and its contents will be viewable when clicking on the post listing.
 
+To learn more, check out the [oficial Jekyll documentation for blog posts](https://jekyllrb.com/docs/posts/).
+
 ## Pushing to the main repository
+First of all, make sure to commit the changes you've made. In the main project directory, run: 
 
+```
+git add .
+git commit -a -m "New blog post"
+```
 
+Now, we'll make sure our fork is up to date with the original repository by running:
+
+```
+git fetch upstream
+git merge upstream/master
+```
+
+If everything went smoothly, run `git push origin master` in order to push the master branch of your fork to Github. 
+
+The last step is to navigate to the Github page of your fork, and create a pull request to merge your changes into the original repository's master branch. (it's tiny, under the `Clone or download` green button.)
+![PR](https://i.imgur.com/cf2vbeB.png)
+
+Once you've created the pull request, Ritu or Taeyoon will review it, merge it into the main repository and deploy the blog updates to the live website. That's it!
 
 ## Code structure
