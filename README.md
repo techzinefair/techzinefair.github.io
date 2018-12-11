@@ -4,8 +4,8 @@
 2. [Contributing to the blog](#contributing-to-the-blog)
 3. [Code structure](#code-structure)
 
-# First time setup
+## First time setup
 
-# Contributing to the blog
+## Contributing to the blog
 
-# Code structure
+## Code structure
