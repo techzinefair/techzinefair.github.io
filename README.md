@@ -4,7 +4,8 @@ This is the New York Tech Zine Fair website repository. It uses [Jekyll](https:/
 
 ### Contribution guidelines
 1. [First time setup](#first-time-setup)
-2. [Adding content to the blog](#adding-content-to-the-blog)
+2. [Adding content to the blog locally](#adding-content-to-the-blog-locally)
+3. [Pushing to the main repository](#pushing-to-the-main-repository) 
 3. [Code structure](#code-structure)
 
 
@@ -43,8 +44,58 @@ author: "Neta Bomani"
 ---
 ```
 
-The `layout: post` field should stay constant across all posts, it instructs Jekyll to use the [blog post HTML template](https://github.com/ritughiya/ritughiya.github.io/blob/master/_layouts/post.html). All other fields will change from post to post. Make sure the image path in the `thumbnail` field matches exactly the name of the image under the `assets` folder. You can create any kind of subdirectory structure you want (e.g. one folder per blog post, etc.) 
+The `layout: post` field should stay constant across all posts, as it instructs Jekyll to use the [blog post HTML template](https://github.com/ritughiya/ritughiya.github.io/blob/master/_layouts/post.html). All other fields will change from post to post. Make sure the image path in the `thumbnail` field matches exactly the name of the image under the `assets/images` folder. You can create any kind of subdirectory structure you want (e.g. one folder per blog post, etc.) This will be the image that appears on the [blog index page](http://techzinefair.org/blog).
 
-## Pushing new content to the main repository
+Following the header is the content of the post, styled using Markdown syntax. We are currently using a small subset of it. The output of the examples here will look slightly different than the ones on the blog—in there, we're styling these components to respect the site design. But the Markdown syntax is the same.
+
+1. Questions—bolded & italicized
+In Markdown syntax, three stars signify bold & italic. 
+```
+*** bold & italic text ***
+``` 
+leads to
+
+***bold & italic text***
+
+2. Links
+```
+[This is a link to SP4RX](https://nobrow.net/shop/sp4rx/)
+```
+creates
+
+[This is a link to SP4RX](https://nobrow.net/shop/sp4rx/).
+
+3. Images
+```
+![This is the image alt-text](/assets/images/blog/wrenmcdonald1.jpg)
+```
+creates
+
+![This is the image alt-text](/assets/images/blog/wrenmcdonald1.jpg)
+
+4. Image captions
+```
+>Wren at the School of Visual Arts RisoLAB.
+```
+creates
+
+>Wren at the School of Visual Arts RisoLAB. (*This one looks most different on the blog because of styling, but this is what we use to do image captions.*)
+
+5. Section breaks
+```
+---
+```
+
+creates a section break (shorter, center-aligned line on the blog.)
+
+---
+
+You can use any other elements of the Markdown syntax, but there is a chance they will need custom styling. 
+
+Once you add a new blogpost under this structure, it will show up in the list of posts at `localhost:4000/blog`, and its contents will be viewable when clicking on the post listing.
+
+## Pushing to the main repository
+
+
 
 ## Code structure
