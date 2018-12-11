@@ -12,7 +12,7 @@ This is the New York Tech Zine Fair website repository. It uses [Jekyll](https:/
 ## First time setup
 
 ### 1. Forking the repository
-If you are planning on contributing to this website (new content for the blog, updates to the existing content, or code improvements,) start by creating a `Fork` of the repository under your own account. The `Fork` button is in the upper-right corner of the repository Github page.
+If you are planning on contributing to this website (new content for the blog, updates to the existing content, or code improvements,) start by creating a `Fork` of the repository under your own Github account. The `Fork` button is in the upper-right corner of the repository Github page.
 
 The URL for the forked repository should look like this: `https://github.com/YOUR_GITHUB_USERNAME/ritughiya.github.io`. Once you have it, clone the repository locally, by running:
 
