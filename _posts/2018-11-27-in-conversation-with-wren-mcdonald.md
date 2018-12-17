@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In conversation with Wren McDonald on living in a cyberpunk world, zines as art objects and 90s nostalgia"
+title:  "Wren McDonald on living in a cyberpunk world, zines as art objects and 90s nostalgia"
 date:   2018-11-27 16:35:06 -0500
 thumbnail: /assets/images/blog/wrenmcdonald1.jpg
 author: "Neta Bomani"
@@ -8,13 +8,13 @@ author: "Neta Bomani"
 ![Wren McDonald](/assets/images/blog/wrenmcdonald1.jpg)
 >An illustration of Wren McDonald drawing by Wren McDonald. Image description: A cartoon of a boyishly looking person hunched over a drafter’s desk with a backpack on. The person is drawing a smiley face sticking its tongue out. There is also a mechanical cord attached to the back of the person’s head.
 
-I interviewed illustrator and cartoonist [Wren McDonald](https://wrenmcdonald.com/). Not only has Wren’s work been featured in publications such as the New York Times, Wired and Boom! Studios, but Wren is also preceded by a long line of artists engaged in the cyberpunk genre, from Paul Verhoeven to Katsuhiro Otomo. Wren will be a vendor at the first ever New York Tech Zine Fair on Dec. 1 from 12-7 p.m. at the School for Poetic Computation.
+I interviewed illustrator and cartoonist [Wren McDonald](https://wrenmcdonald.com/). Not only has Wren’s work been featured in publications such as _the New York Times_, _Wired_ and Boom! Studios, but Wren is also preceded by a long line of artists engaged in the cyberpunk genre, from Paul Verhoeven to Katsuhiro Otomo. Wren will be a vendor at the first ever New York Tech Zine Fair on Dec. 1 from 12-7 p.m. at the School for Poetic Computation.
 
 ---
 
 ***Tell me a little bit about yourself—what’s going on in your world?***
 
-Wren: My name is Wren McDonald. I’m a cartoonist and illustrator. I make comics, mostly science fiction comics leaning towards cyberpunk. I have a graphic novel called [SP4RX](https://nobrow.net/shop/sp4rx/) published by Nobrow which came out about a year and a half ago. I also self publish a lot of my own mini comics and zines that revolve around the same subject matter. I also do a lot of  editorial illustrations for magazines and newspapers such as the New York Times and New Yorker.
+Wren: My name is Wren McDonald. I’m a cartoonist and illustrator. I make comics, mostly science fiction comics leaning towards cyberpunk. I have a graphic novel called [SP4RX](https://nobrow.net/shop/sp4rx/) published by Nobrow which came out about a year and a half ago. I also self publish a lot of my own mini comics and zines that revolve around the same subject matter. I also do a lot of  editorial illustrations for magazines and newspapers such as _the New York Times_ and _New Yorker_.
 
 ***You mentioned a lot of your work has a cyberpunk, and I kind of get this tech-dystopian, hacker feel to it. Do you identify as a hacker or programmer?***
 
@@ -41,7 +41,7 @@ W: I definitely do. I feel like the comics and zines are much more personally dr
 W: When I’m working on a comic or zine, I’m always thinking about the finished product. Even when I start drawing the first page, I really like to think ‘what is this going to feel like in the reader’s hands?’ I put a lot of thought into sizing and color and how it’s going to feel when they flip from page to page. Something I use for all my zines is a risograph copy machine. That’s something I was introduced to maybe, five years ago. It’s a really cool copy machine that allows you to print one color at a time, so the final effect is similar to screenprinting. It’s really fast and effective if you’re planning on making zines or askance, throwaway flyers—stuff like that.
 
 ![Wren McDonald](/assets/images/blog/wrenmcdonald3.jpg)
->Wren at the School of Visual Arts RisoLAB.
+>Wren at the School of Visual Arts RisoLAB. Image courtesy [Wren McDonald](https://www.instagram.com/p/Bp70WREh6_C/). Image description: Wren posing down on one knee with a peace sign next to a risograph machine. A black ink cartridge is extended out toward the center foreground of the image.
 
 Actually, right now, I’m the artist in residence at the School of Visual Arts RisoLAB, which has been great because their facilities are really nice. With the risograph, they’re always really finicky and I’ve owned my own and it’s always kind of a headache when you’re working on a zine like ‘is the machine gonna break down? I hope it doesn’t like, explode [laughs]. I hope I don’t run out of this supply or that supply.’ Those factors aren’t something I have to worry about at RisoLAB.”
 
