@@ -8,7 +8,7 @@ author: "Neta Bomani"
 ![Amy Wibowo](/assets/images/blog/amy_wibowo.png)
 >BubbleSort Zines founder, Amy Wibowo. Image description: A portrait featuring Amy. She/they are pictured in the center and looking off to the right on a navy blue background. Image courtesy Techies Project.
 
-For the [New York Tech Zine Fair](/), I interviewed founder, editor and CEO of [BubbleSort Zines](https://shop.bubblesort.io/), **Amy Wibowo**.
+For the [New York Tech Zine Fair](/), I interviewed founder, editor and CEO of [BubbleSort Zines](https://shop.bubblesort.io/), Amy Wibowo.
 
 
 Amy is a programmer who left the tech industry to pursue her life’s work of making zines for women, femmes and non-binary folks who feel alienated by gender discrimination within and out of the computer science field. Amy will be a featured vendor at the first ever New York Tech Zine Fair on Dec. 1 from 12 to 7 p.m. at the School for Poetic Computation.
@@ -18,8 +18,6 @@ Amy is a programmer who left the tech industry to pursue her life’s work of ma
 ***Your zines involve a lot of research, care and content and often extend to upwards of 100 pages. What is your zine-making process?***
 
 Amy: There’s a lot of research. I did study computer science formally, so sometimes I go back and look at my notes and my textbooks. I try to think about what concepts were most exciting to me, what concepts were the most difficult to me, and get myself back into the mindset of when I first learned about these things. A lot of writing, a lot of drawing. I tend to alternate between the two — like, when I’m tired of writing, I work on the illustrations and when I’m tired of illustrating, I go back to writing.
- 
-
 
 It’s really important to me that people can understand the zines even if they don’t have a computer science background or heavy math background. I have a test reader who’s a high school student go through all the zines and tell me if certain parts are boring, if certain parts are hard to understand. They will let me know I need to rewrite those sections. The drawings make a big difference. Her feedback is often, “more drawings, please!”
 
