@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soft Surplus on art-washing, social technologies and friendship"
-date:   2018-12-03 19:39:00 -0500
+date:   2019-01-05 19:39:00 -0500
 thumbnail: /assets/images/blog/soft-surplus1.jpg
 author: "Neta Bomani"
 ---
@@ -13,6 +13,7 @@ I interviewed multi-disciplinary architectural, design and creative arts collect
 ---
 
 ***In my experience, Soft Surplus is a bit hard to track down. I understand you’re all part of a newly formed collective, so I’m curious—what is Soft Surplus? Who is Soft Surplus? What do you all do?***
+
 AWS: Soft Surplus is about 20 artists/designers/technologists who talk, eat, and make things together and individually. Every member has a different take on what it is, but I think we rally around the idea that we want our creative practice and life practice to be one and the same.
 
 KG: It can feel like a soft framework to both anchor your practice and facilitate sharing that practice with others. A place where everyone is coming from various fields and modes of research, with generative overlaps revealing themselves through existing and orbiting in adjacency, softly so.
@@ -23,15 +24,17 @@ MH: My experience of Soft Surplus has been one of boundless learning and growing
 There’s a hole in my studio wall that separates mine and another member’s space where we haven’t finished putting up drywall. We often work quietly on either side of the gap. One day it will close and I will have enjoyed the breach in membrane as much as I will it’s patching.
 
 ***Tell me about the “soft opening” party you hosted back in July this year. What was it like?***
+
 AWS: Deadlines really help, and the soft opening was a great chance for us to formalize ourselves from all the ideas, conversations, and techniques we’d been sharing into a glowy, warm night of excitement. 
 
 RH: For me, the soft opening highlighted the ways that Soft Surplus as a space can house exchange and play between communities that extend beyond our membership. It’s energizing to have a wide variety of collaborators and creative crushes all in one room. 
 
-![Image description: A photo of a dirty white jumpsuit with the word “soft” written in capital sans serif letters.](/assets/images/blog/soft-surplus1.jpg)
+![Image description: A photo of a dirty white jumpsuit with the word “soft” written in capital sans serif letters.](/assets/images/blog/soft-surplus2.jpg)
 > A photo of a dirty white jumpsuit with the word “soft” written in capital sans serif letters. Photo via [Soft Surplus](https://instagram.com/softsurplus) on Instagram.
 
 
 ***What do the words: soft/surplus/hard/shortage mean to you?***
+
 AWS: Surplus is a non-zero-sum kind of thinking. Collectively occupying a space creates opportunities in thought and relationship we couldn’t do alone. 
 
 DT: Soft means: to be generous and understanding, willing to grow; to have practices and rhythms. Surplus is a *spare* moment of time to lend a hand to a friend, or the *extra* coffee in the pot made just in case others wanted some. Hardness is the language of law, of exclusion and borders and unyielding rigidity; shortage is about the inability to accommodate others. Softness is curiosity.
@@ -45,6 +48,7 @@ MH: Soft skills, software, soft glow and soft voices being heard. Surplus dreams
 
 
 ***Your studio space is located in East Williamsburg, a contentious Brooklyn neighborhood in the context of real estate development, New York transplants, artwashing, gentrification and the larger conversation of colonialism. How have you navigated these issues inside and outside of your work?***
+
 LO: I’ve thought of Sarah Schulman’s *Gentrification of the Mind* many times since joining SoSu. She speaks to the difference between those who move into areas to build something that isn’t welcome elsewhere and those who move into areas to replicate something that already exists elsewhere.
 
 DT: Yes. East Williamsburg is fraught with the exact reasons you mention. In my personal work, I’ve been part of the [NYC Real Estate Investment Cooperative](http://nycreic.com/), which is an anti-displacement effort to cooperatively fund commercial real estate in order to stabilize and support existing communities. To me, it’s a form of ‘activist real estate’—creating community land trusts against real estate speculation. I’ve also co-created [Landscapes of Profit](http://www.landscapesofprofit.com/), a project visualizing a one percent ‘flip tax’ on flipped properties—properties bought and sold within two years—that would go towards affordable space in NYC. 
@@ -52,6 +56,7 @@ For Soft Surplus, personally speaking, it’s important to me that we can be cri
 One form of critique against a speculative real estate market that financializes space is to engage with it in practice, rather than withdrawal. I think more artists, designers, organizers, educators, researchers should become real-estate savvy, and create more spaces to support communities. Ideally, the land should be owned as community land trusts and the building structured as a limited-equity cooperative, structurally designed to limit long-term speculation. 
 
 ***What other issues or subjects are you exploring in your zines?***
+
 AWS: The visual language of future nation states populated by non-human life. 
 
 KG: SURPLUS is a monthly, internal zine for Soft Surplus members to exchange, respond and share. Not limited in medium, our collection includes CDs, pamphlets, posters and other printed and digital matter. Some issues function as a framework to facilitate exchange amongst all members, such as a CD we made in June and a forthcoming oral history project; whereas, others provide a chance for a couple of members to meet and collaborate who may not have had a chance to prior.
@@ -63,7 +68,8 @@ For the New York Tech Zine Fair, I also worked on designing and editing a zine f
 
 TZ: I’m working on a book that has to do with the recall and invention of place, both actual and plausible. In the case of the book, the places are constructed of memories, plausible, real, emotional, spiritual, aspirational, that I think I might share with those who I have descended from. I used this zine as an opportunity to sketch out some ideas about where those places may be, in past or present, and to think about the emotional content of the images I tend to see on my screens.
 
-***What is your personal relationship with technology like?*** 
+***What is your personal relationship with technology like?***
+
 LY: I have a giant, wary crush on technology.
 
 AWS: It’s complicated.
@@ -78,17 +84,18 @@ TZ: It’s something that I work on as a designer and have given really little t
 
 LSYL: Sometimes technology doesn’t necessarily look like technology. Been trying to educate myself and others what it means to our creative work now.
 
-
 ![Soft Surplus members tabling at the New York Tech Zine Fair. Image description: Three people sit and stand behind a table filled with zines and other printed matters, happily smiling and looking at the camera.](/assets/images/blog/soft-surplus4.jpg)
 > Soft Surplus members tabling at the New York Tech Zine Fair. Image description: Three people sit and stand behind a table filled with zines and other printed matters, happily smiling and looking at the camera. Photo via [Soft Surplus](https://instagram.com/softsurplus) on Instagram.
 
 
 ***Do you consider zine making itself a technology?***
+
 KG: Yes! I think of it as a technology in 2 distinct ways: First, the technology of a bound item disseminating information or narrative independently of an existing, dominant means and second, because of my background in printed matter, I think about the technologies around paper, the printing press, and book assembly and the ways those various technologies (and their histories) informed choreographies of reading. With my background, I have felt so grateful to participate in a diverse community such as Soft Surplus where I can learn how the ethos of zines relate to the ethos of P2P, distributed web of care, etc. I am very excited to see these connections furthered at the New York Tech Zine Fair!
 
 RH: Technologies within technologies.
 
 ***What media are you all into right now? Have you found anything particularly inspiring?***
+
 SoSu: Paper, movement, CNC drag knives, acrobatics, print, paint, wood, steel, object tracking, drawing, singing, sewing, resin, knitting, spreadsheets, communications, shared documents, local area networks. 
 
 ***What’s next for Soft Surplus?***
