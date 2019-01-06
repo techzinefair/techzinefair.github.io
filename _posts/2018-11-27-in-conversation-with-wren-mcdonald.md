@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In conversation with Wren McDonald on living in a cyberpunk world, zines as art objects and 90s nostalgia"
+title:  "Wren McDonald on living in a cyberpunk world, zines as art objects and 90s nostalgia"
 date:   2018-11-27 16:35:06 -0500
 thumbnail: /assets/images/blog/wrenmcdonald1.jpg
 author: "Neta Bomani"
@@ -8,17 +8,17 @@ author: "Neta Bomani"
 ![Wren McDonald](/assets/images/blog/wrenmcdonald1.jpg)
 >An illustration of Wren McDonald drawing by Wren McDonald. Image description: A cartoon of a boyishly looking person hunched over a drafter’s desk with a backpack on. The person is drawing a smiley face sticking its tongue out. There is also a mechanical cord attached to the back of the person’s head.
 
-I interviewed illustrator and cartoonist [Wren McDonald](https://wrenmcdonald.com/). Not only has Wren’s work been featured in publications such as the New York Times, Wired and Boom! Studios, but Wren is also preceded by a long line of artists engaged in the cyberpunk genre, from Paul Verhoeven to Katsuhiro Otomo. Wren will be a vendor at the first ever New York Tech Zine Fair on Dec. 1 from 12-7 p.m. at the School for Poetic Computation.
+I interviewed illustrator and cartoonist [Wren McDonald](https://wrenmcdonald.com/). Not only has Wren’s work been featured in publications such as the *New York Times*, *Wired* and Boom! Studios, but Wren is also preceded by a long line of artists engaged in the cyberpunk genre, from Paul Verhoeven to Katsuhiro Otomo. Wren will be a vendor at the first ever New York Tech Zine Fair on Dec. 1 from 12-7 p.m. at the School for Poetic Computation.
 
 ---
 
 ***Tell me a little bit about yourself—what’s going on in your world?***
 
-Wren: My name is Wren McDonald. I’m a cartoonist and illustrator. I make comics, mostly science fiction comics leaning towards cyberpunk. I have a graphic novel called [SP4RX](https://nobrow.net/shop/sp4rx/) published by Nobrow which came out about a year and a half ago. I also self publish a lot of my own mini comics and zines that revolve around the same subject matter. I also do a lot of  editorial illustrations for magazines and newspapers such as the New York Times and New Yorker.
+Wren: My name is Wren McDonald. I’m a cartoonist and illustrator. I make comics, mostly science fiction comics leaning towards cyberpunk. I have a graphic novel called [SP4RX](https://nobrow.net/shop/sp4rx/) published by Nobrow which came out about a year and a half ago. I also self publish a lot of my own mini comics and zines that revolve around the same subject matter. I also do a lot of  editorial illustrations for magazines and newspapers such as the *New York Times* and *New Yorker*.
 
 ***You mentioned a lot of your work has a cyberpunk, and I kind of get this tech-dystopian, hacker feel to it. Do you identify as a hacker or programmer?***
 
-W: I don’t, actually, but it’s something that I’ve always been attracted to. I think that has a lot to do with growing up in the ‘90s and the things I was exposed to. Because for cyberpunk, the hayday in popular culture was definitely the ‘90s coming out from the real actual content in the ‘80s, and it becoming mainstream in the ‘90s. Being exposed to movies like Terminator 2 or Total Recall or the Matrix or Hackers. I think that had a big impact on me. Also around that time was the anime and manga boom of the ‘90s. A lot of that stuff was also really science fiction or cyberpunk heavy. One title that a huge affect on me was Akira by Katsuhiro Otomo. Also Ghost in the Shell by Mamoru Oshii. Blame! by Tsutomu Nihei. Evangeli—you know [laughs]. Just growing up in that. Not only that, but when I was a kid, not everyone had internet or computers in their homes. Now everyone has it in their pocket. Being there when the internet became a common tool that everyone used I think is really interesting.
+W: I don’t, actually, but it’s something that I’ve always been attracted to. I think that has a lot to do with growing up in the ‘90s and the things I was exposed to. Because for cyberpunk, the hayday in popular culture was definitely the ‘90s coming out from the real actual content in the ‘80s, and it becoming mainstream in the ‘90s. Being exposed to movies like *Terminator 2* or *Total Recall* or *the Matrix* or *Hackers*. I think that had a big impact on me. Also around that time was the anime and manga boom of the ‘90s. A lot of that stuff was also really science fiction or cyberpunk heavy. One title that a huge affect on me was *Akira* by Katsuhiro Otomo. Also *Ghost in the Shell* by Mamoru Oshii. *Blame!* by Tsutomu Nihei. *Evangeli*—you know [laughs]. Just growing up in that. Not only that, but when I was a kid, not everyone had internet or computers in their homes. Now everyone has it in their pocket. Being there when the internet became a common tool that everyone used I think is really interesting.
 
 ***How do you feel about being categorized within the cyberpunk, hacker aesthetic? Have you thought about breaking outside of that?***
 
@@ -41,7 +41,7 @@ W: I definitely do. I feel like the comics and zines are much more personally dr
 W: When I’m working on a comic or zine, I’m always thinking about the finished product. Even when I start drawing the first page, I really like to think ‘what is this going to feel like in the reader’s hands?’ I put a lot of thought into sizing and color and how it’s going to feel when they flip from page to page. Something I use for all my zines is a risograph copy machine. That’s something I was introduced to maybe, five years ago. It’s a really cool copy machine that allows you to print one color at a time, so the final effect is similar to screenprinting. It’s really fast and effective if you’re planning on making zines or askance, throwaway flyers—stuff like that.
 
 ![Wren McDonald](/assets/images/blog/wrenmcdonald3.jpg)
->Wren at the School of Visual Arts RisoLAB.
+>Wren at the School of Visual Arts RisoLAB. Image courtesy [Wren McDonald](https://www.instagram.com/wrenmcdonald/). Image description: Wren posing down on one knee with a peace sign next to a risograph machine. A black ink cartridge is extended out toward the center foreground of the image.
 
 Actually, right now, I’m the artist in residence at the School of Visual Arts RisoLAB, which has been great because their facilities are really nice. With the risograph, they’re always really finicky and I’ve owned my own and it’s always kind of a headache when you’re working on a zine like ‘is the machine gonna break down? I hope it doesn’t like, explode [laughs]. I hope I don’t run out of this supply or that supply.’ Those factors aren’t something I have to worry about at RisoLAB.”
 
@@ -51,7 +51,7 @@ W: Definitely. One thing that I think is really cool about risographs is that it
 
 ***How would you describe your relationship with the people who read your comics and zines?***
 
-W: The way I interact with everyone who reads my work is primarily online. It’s funny because the whole world kind of exists there. When I do a show, it’s really interesting and really cool, to be honest, to see the people who I’ve interacted with online in real life. It just adds a physicality to it, like this is real. I think it’s cool to exist in a physical space and be able to talk zines and comics and everything.
+W: The way I interact with everyone who reads my work is primarily online. It’s funny because the whole world kind of exists there. When I do a show, it’s really interesting and really cool, to be honest, to see the people who I’ve interacted with online in real life. It just adds a physicality to it, like *this is real*. I think it’s cool to exist in a physical space and be able to talk zines and comics and everything.
 
 ***How do you think technology factors into the context of zinemaking and the zine community today?***
 
@@ -66,7 +66,7 @@ W: If we can do anything we can to point out the ridiculousness that’s going o
 
 ***What sort of things are grounding you right now? What are you inspired by?***
 
-W: To be honest, I love the same thing I’ve always been interested in which is science fiction from the ‘80s and ‘90s. Comics wise, I’m really into a series called Eden: It’s an Endless World! by Hiroki Endo. I just started re-watching Neon Genesis Evangelion, which is a favorite of mine. I don’t only expose myself to the older stuff. I still like going and seeing what’s new out there, especially when it comes to indie comics. I just did Comic Arts Brooklyn earlier this month and it’s so cool to walk around and see what everyone is doing and printing there and seeing how people are really pushing zinemaking.
+W: To be honest, I love the same thing I’ve always been interested in which is science fiction from the ‘80s and ‘90s. Comics wise, I’m really into a series called *Eden: It’s an Endless World!* by Hiroki Endo. I just started re-watching *Neon Genesis Evangelion*, which is a favorite of mine. I don’t only expose myself to the older stuff. I still like going and seeing what’s new out there, especially when it comes to indie comics. I just did Comic Arts Brooklyn earlier this month and it’s so cool to walk around and see what everyone is doing and printing there and seeing how people are really pushing zinemaking.
 
 ***What are you looking forward to in terms of the New York Tech Zine Fair?***
 
