@@ -99,6 +99,7 @@ RH: Technologies within technologies.
 SoSu: Paper, movement, CNC drag knives, acrobatics, print, paint, wood, steel, object tracking, drawing, singing, sewing, resin, knitting, spreadsheets, communications, shared documents, local area networks. 
 
 ***What’s next for Soft Surplus?***
+
 AWS: Cozy studio hangouts as the snow starts to fall. Our 1 year anniversary is soon too. That’s exciting. 
 
 MH: We’re thinking about ways to support lightweight residencies here and have more potlucks. 
