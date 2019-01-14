@@ -104,3 +104,5 @@ AWS: Cozy studio hangouts as the snow starts to fall. Our 1 year anniversary is 
 
 MH: We’re thinking about ways to support lightweight residencies here and have more potlucks. 
 SoSu: More projects, dinners. More reading groups.
+
+Soft Surplus members include Fei Liu, Callil Capuozzo, Lucy Liu, Denny George, Édouard Urcades, Rachel Haberstroh, Lai Yi Ohlsen, Katie Giritlian, Taylor Zanke, Lily Wong, Angie Meitzler, Grace Jooyei Lee, Elizabeth Henaff, Ann Haeyoung, Pam Liou, Melanie Hoff, Austin Smith, Dan Taeyoung, Amanda Lind and Phyllis Ma as of January, 2019 
