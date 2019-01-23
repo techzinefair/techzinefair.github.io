@@ -4,7 +4,7 @@ layout: post
 title:  "The Detroit Community Technology Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
 date:   2018-12-05 17:27:00 -0500
 =======
-title:  "The Detroit Community Tech Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
+title:  "The Detroit Community Technology Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
 date:   2019-01-05 17:27:00 -0500
 >>>>>>> upstream/master
 thumbnail: /assets/images/blog/dctp1.png
