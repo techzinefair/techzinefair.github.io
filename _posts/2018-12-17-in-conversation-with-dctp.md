@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Detroit Community Tech Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
+title:  "The Detroit Community Technology Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
 date:   2019-01-05 17:27:00 -0500
 thumbnail: /assets/images/blog/dctp1.png
 author: "Neta Bomani"
@@ -9,13 +9,13 @@ author: "Neta Bomani"
 >Digital stewards of DCTP Heru House and Gabrielle Knox. Photo via Jean Louis Farges. Image description: Two people stand behind a table covered with electronic equipment necessary to set up wireless internet. Photo courtesy DCTP.
 
 
-I interviewed community researcher Tawana Petty and program coordinator Janice Gates from the [Detroit Community Tech Project](https://detroitcommunitytech.org) (DCTP). DCTP works around building digital media education and community technology in Detroit. DCTP was a featured vendor at the first ever New York Tech Zine Fair on Dec. 1 at the School for Poetic Computation.
+I interviewed community researcher Tawana Petty and program coordinator Janice Gates from the [Detroit Community Technology Project](https://detroitcommunitytech.org) (DCTP). DCTP works around building digital media education and community technology in Detroit. DCTP was a featured vendor at the first ever New York Tech Zine Fair on Dec. 1 at the School for Poetic Computation.
 
 ---
 
 ***Tell me a little bit about yourselves—who you are, what your role in DCTP is and what’s going on in your world.***
 
-Tawana: This is Tawana Petty. I am the data justice coordinator for the Detroit Community Tech Project as well as a data justice researcher. And I serve as a communications assistant. Currently, I maintain our social media profile as well as our research around data justice and some of the policies and things that are happening in the city around surveillance and technologies. I’m currently digging into our city infrastructure as well as [Project Green Light](http://www.greenlightdetroit.org/) and [Census 2020](https://www.census.gov/programs-surveys/decennial-census/2020-census.html) and convening our Detroit Digital Justice Coalition around organizing efforts on those three fronts. And I co-lead a three-city [Charlotte, North Carolina; Detroit, Michigan, and Los Angeles, California] participatory research project called [Our Data Bodies](https://www.odbproject.org/) which we will be launching a digital defense playbook through that effort. Those are my current roles within DCTP.
+Tawana: This is Tawana Petty. I am the data justice coordinator for the Detroit Community Technology Project as well as a data justice researcher. And I serve as a communications assistant. Currently, I maintain our social media profile as well as our research around data justice and some of the policies and things that are happening in the city around surveillance and technologies. I’m currently digging into our city infrastructure as well as [Project Green Light](http://www.greenlightdetroit.org/) and [Census 2020](https://www.census.gov/programs-surveys/decennial-census/2020-census.html) and convening our Detroit Digital Justice Coalition around organizing efforts on those three fronts. And I co-lead a three-city [Charlotte, North Carolina; Detroit, Michigan, and Los Angeles, California] participatory research project called [Our Data Bodies](https://www.odbproject.org/) which we will be launching a digital defense playbook through that effort. Those are my current roles within DCTP.
 
 ***Can you tell me a little bit more about Project Green Light?***
 
@@ -62,8 +62,8 @@ T: Well, we normally lock each other together in a room for days and brainstorm 
 T: For me, it’s tremendous. It goes against the dominant narrative that black women are not technologists, that black women don’t have information around digital infrastructure, that we can’t teach technical skills, that we’re just not within this work. What is the significance of our data bodies? It’s tremendous to be so involved with black women and other women of color who are kicking ass in this work. Like I said, it defies all the narratives that have defined this work for *so* long and it’s empowering. It feels good to wake up everyday to know that I’m a part of this.
 J: It’s a very freeing space to be in, working with all women of color, especially leading this project. Because we’re not playing by anyone’s rules. We’re not doing technology the way everyone says or suggests it should be done. We’re showing people there’s a different way to do this.
 
-![DCTP Gigabit Workshop with Mozilla Foundation. Image courtesy the Detroit Community Tech Project.](/assets/images/blog/dctp3.png)
->DCTP Gigabit Workshop with Mozilla Foundation. Image courtesy the Detroit Community Tech Project.
+![DCTP Gigabit Workshop with Mozilla Foundation. Image courtesy the Detroit Community Technology Project.](/assets/images/blog/dctp3.png)
+>DCTP Gigabit Workshop with Mozilla Foundation. Image courtesy the Detroit Community Technology Project.
 
 
 ***It means a lot for me to see two black women doing the work that you do within tech. On that note, I want to talk about the statistic that 40 percent of people in Detroit don’t have internet access. It’s almost been a year since that statistic has been released. How have you seen your community change as a result of your efforts?***
