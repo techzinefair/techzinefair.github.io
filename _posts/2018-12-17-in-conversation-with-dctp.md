@@ -2,11 +2,7 @@
 layout: post
 <<<<<<< HEAD
 title:  "The Detroit Community Technology Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
-date:   2018-12-05 17:27:00 -0500
-=======
-title:  "The Detroit Community Technology Project on autonomous communities, the confluence of organizing, technology and the liberation of data bodies"
 date:   2019-01-05 17:27:00 -0500
->>>>>>> upstream/master
 thumbnail: /assets/images/blog/dctp1.png
 author: "Neta Bomani"
 ---
@@ -19,12 +15,8 @@ I interviewed community researcher Tawana Petty and program coordinator Janice G
 ---
 
 ***Tell me a little bit about yourselves—who you are, what your role in DCTP is and what’s going on in your world.***
-<<<<<<< HEAD
-Tawana: This is Tawana Petty. I am the data justice coordinator for the Detroit Community Technology Project as well as a data justice researcher. And I serve as a communications assistant. Currently, I maintain our social media profile as well as our research around data justice and some of the policies and things that are happening in the city around surveillance and technologies. I’m currently digging into our city infrastructure as well as [Project Green Light](http://www.greenlightdetroit.org/) and [Census 2020](https://www.census.gov/programs-surveys/decennial-census/2020-census.html) and convening our Detroit Digital Justice Coalition around organizing efforts on those three fronts. And I co-lead a three-city [Charlotte, North Carolina; Detroit, Michigan, and Los Angeles, California] participatory research project called [Our Data Bodies](https://www.odbproject.org/) which we will be launching a digital defense playbook through that effort. Those are my current roles within DCTP.
-=======
 
-Tawana: This is Tawana Petty. I am the data justice coordinator for the Detroit Community Tech Project as well as a data justice researcher. And I serve as a communications assistant. Currently, I maintain our social media profile as well as our research around data justice and some of the policies and things that are happening in the city around surveillance and technologies. I’m currently digging into our city infrastructure as well as [Project Green Light](http://www.greenlightdetroit.org/) and [Census 2020](https://www.census.gov/programs-surveys/decennial-census/2020-census.html) and convening our Detroit Digital Justice Coalition around organizing efforts on those three fronts. And I co-lead a three-city [Charlotte, North Carolina; Detroit, Michigan, and Los Angeles, California] participatory research project called [Our Data Bodies](https://www.odbproject.org/) which we will be launching a digital defense playbook through that effort. Those are my current roles within DCTP.
->>>>>>> upstream/master
+Tawana: This is Tawana Petty. I am the data justice coordinator for the Detroit Community Technology Project as well as a data justice researcher. And I serve as a communications assistant. Currently, I maintain our social media profile as well as our research around data justice and some of the policies and things that are happening in the city around surveillance and technologies. I’m currently digging into our city infrastructure as well as [Project Green Light](http://www.greenlightdetroit.org/) and [Census 2020](https://www.census.gov/programs-surveys/decennial-census/2020-census.html) and convening our Detroit Digital Justice Coalition around organizing efforts on those three fronts. And I co-lead a three-city [Charlotte, North Carolina; Detroit, Michigan, and Los Angeles, California] participatory research project called [Our Data Bodies](https://www.odbproject.org/) which we will be launching a digital defense playbook through that effort. Those are my current roles within DCTP.
 
 ***Can you tell me a little bit more about Project Green Light?***
 
